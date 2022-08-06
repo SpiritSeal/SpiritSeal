@@ -8,4 +8,4 @@ SpiritSeal/SpiritSeal is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 - 📫 How to reach me: {email: yssaketh@gmail.com}
-- 📱 Socials: {linkedin: https://www.linkedin.com/in/saketh-reddy-ys/}
+- 📱 Socials: {linkedin: [https://www.linkedin.com/in/saketh-reddy-ys/](https://www.linkedin.com/in/saketh-reddy-ys/)}

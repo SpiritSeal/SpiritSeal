@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SpiritSeal
-- 👀 I’m interested in InfoSec, Rapid Ideation, Music Production
-- 💻 I play CTFs as `"spyre"`
+- 👀 I’m interested in {Rapid/Iterative Software Development, Applications of Generative AI, Malware Analysis, Music Production}
+- 💻 I play CTFs (cyber security competitions) as `"spyre"`
 <!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...

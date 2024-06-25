@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SpiritSeal
-- 👀 I’m interested in {Automated Malware Analysis, Collaborative Software Engineering, Applications of Generative AI, Music Production}
+- 👀 I’m interested in {Automated Program Analysis, System Security, Applications of Generative AI, Music Production}
 - 💻 I play CTFs (cyber security competitions) as `"spyre"`
 <!---
 - 🌱 I’m currently learning ...
